@@ -1,1 +1,1 @@
-Supplementary material for my [blog post](https://orjpap.github.io/swift/real-time/audio/avfoundation/2020/06/19/avaudiosourcenode.html)
+Supplementary material for my [blog post](https://orjpap.github.io/swift/low-level/audio/avfoundation/2024/09/19/avAudioEffectNode.html)
